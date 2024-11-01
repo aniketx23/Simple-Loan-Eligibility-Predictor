@@ -1,1 +1,0 @@
-# Simple-Loan-Eligibility-Predictor
